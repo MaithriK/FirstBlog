@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@400;700&display=swap');
+
+ 
+:root{
+    --primary-color:#A192E4;
+    --dark-grey:#6B7280;
+    --section-color:#d1d5db;
+}
+
+body{
+    font-family: 'Victor Mono', monospace;
+}
+
+hr{
+    margin: 2rem 0rem;
+}
+
+
+
+.container{
+    padding: 0rem 1rem;
+}
+
+.container-center{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.link-primary{
+    background-color: var(--primary-color);
+    border-radius: 2rem;
+    color: white; 
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+.link-secondary{
+    color: var(--primary-color);
+    border-radius: 2rem;
+    border: 1px solid var(--primary-color);
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+.link-footer{
+    border: 0.5px solid white;
+    border-radius: 2rem;
+    display: inline-block;
+    margin: 0.5rem;
+}
+.list-non-bullet{
+    list-style: none;
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+/** nav **/
+.navigation{
+    background-color:
+    var(--primary-color);
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 0.5rem;
+     
+}
+
+.navigation .nav-pills{
+    text-align: right;
+}
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.navigation .link{
+    color: white;
+}
+
+.navigation .link-active{
+    font-weight: bold;
+}
+
+/** header **/
+.hero{
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.hero .hero-image{
+    max-width: 350px;
+    margin: auto;
+    display: block;
+    /**border: 3px solid var(--primary-color);**/
+    border-radius: 1rem;
+}
+
+.hero .hero-heading{
+    text-align: center;
+    /**color: var(--dark-grey);**/
+}
+
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
+}
+
+/** section **/
+.section{
+    padding: 2rem;
+    display: block;
+    margin: 2rem 0rem;
+    border-radius: 1rem;
+    
+}
+.section h1{
+    text-align: center;
+}
+
+.ow{
+    background-color: var(--section-color);
+}
+
+/**footer **/
+.footer{
+    text-align: center;
+    padding: 2rem 1rem;
+    color: white;
+    background-color: var(--primary-color);
+    border-top-right-radius: 0.5rem;
+}
+
+.footer .footer-header{
+    font-weight: bolder;
+}
+.footer .link{
+    color: white;
+    font-weight: bolder;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}
