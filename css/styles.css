@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
  
 :root{
-    --primary-color:#A192E4;
+    --primary-color:#D4A373;
     --dark-grey:#6B7280;
     --section-color:#d1d5db;
 }
@@ -77,9 +77,13 @@ hr{
     text-align: right;
 }
 .navigation .nav-brand{
-    font-weight: bold;
-    font-size: 1.1rem;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    font-style: italic;
+    color: #E9EDC9;
 }
+
+
 .navigation .link{
     color: white;
 }
