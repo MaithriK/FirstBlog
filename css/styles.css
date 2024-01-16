@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
  
 :root{
-    --primary-color:#D4A373;
+    --primary-color:#ffffff;
     --dark-grey:#6B7280;
     --section-color:#d1d5db;
 }
@@ -15,7 +15,10 @@ hr{
     margin: 2rem 0rem;
 }
 
-
+.author{
+    width: 250px;
+    height: 250px;
+}
 
 .container{
     padding: 0rem 1rem;
@@ -80,12 +83,18 @@ hr{
     font-family: 'Oswald', sans-serif;
     font-size: 35px;
     font-style: italic;
-    color: #E9EDC9;
+    color: #FF5841;
 }
 
 
 .navigation .link{
+    color: #C53678;
+}
+
+.navigation .link:hover{
     color: white;
+    background-color: #C53678;
+    font-weight: bold;
 }
 
 .navigation .link-active{
