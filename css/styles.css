@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
  
 :root{
     --primary-color:#ffffff;
@@ -10,7 +10,17 @@
 body{
     font-family: 'Victor Mono', monospace;
 }
-
+.content{
+    /* padding: 50px; */
+    text-align: justify;
+    /* width:900px; */
+    /* padding: 2rem; */
+    display: block;
+    margin: 0rem 20rem;
+   
+    
+    /* text-align: center; */
+}
 hr{
     margin: 2rem 0rem;
 }
@@ -36,17 +46,18 @@ hr{
 }
 
 .link-primary{
-    background-color: var(--primary-color);
+    /* background-color: black; */
     border-radius: 2rem;
-    color: white; 
+    border:1px solid black;
+    color: black; 
     display: inline-block;
     margin: 0.5rem;
 }
 
 .link-secondary{
-    color: var(--primary-color);
+    color: black;
     border-radius: 2rem;
-    border: 1px solid var(--primary-color);
+    border: 1px solid black;
     display: inline-block;
     margin: 0.5rem;
 }
@@ -66,6 +77,19 @@ hr{
     padding: 0rem 0.5rem;
 }
 
+#btn{
+    background-color: #C53678;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+}
+
+#a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 /** nav **/
 .navigation{
     background-color:
@@ -80,8 +104,9 @@ hr{
     text-align: right;
 }
 .navigation .nav-brand{
-    font-family: 'Oswald', sans-serif;
-    font-size: 35px;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 60px;
     font-style: italic;
     color: #FF5841;
 }
@@ -96,10 +121,17 @@ hr{
     background-color: #C53678;
     font-weight: bold;
 }
-
-.navigation .link-active{
+.navigation .link:active{
+    color: white;
+    background-color: #C53678;
     font-weight: bold;
 }
+/* .navigation .link-active{
+    color: white;
+    background-color: #C53678;
+    font-weight: bold;
+
+} */
 
 /** header **/
 .hero{
@@ -142,20 +174,21 @@ hr{
 
 /**footer **/
 .footer{
-    text-align: center;
+    text-align: right;
     padding: 2rem 1rem;
-    color: white;
-    background-color: var(--primary-color);
+    color: black;
+    /* background-color: var(--primary-color); */
     border-top-right-radius: 0.5rem;
 }
 
 .footer .footer-header{
+    border-top: 1px solid grey;
     font-weight: bolder;
 }
 .footer .link{
-    color: white;
-    font-weight: bolder;
+    color: #C53678;
 }
+
 
 .footer ul{
     padding-inline-start: 0px;
