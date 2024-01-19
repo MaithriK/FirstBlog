@@ -17,10 +17,9 @@ body{
     /* padding: 2rem; */
     display: block;
     margin: 0rem 20rem;
-   
-    
-    /* text-align: center; */
-}
+    line-height: 2;
+ }
+
 hr{
     margin: 2rem 0rem;
 }
@@ -162,13 +161,14 @@ hr{
     display: block;
     margin: 2rem 0rem;
     border-radius: 1rem;
-    
+    line-height: 1.5;
 }
 .section h1{
     text-align: center;
 }
 
 .ow{
+    line-height: 1.5;
     background-color: var(--section-color);
 }
 
@@ -193,3 +193,4 @@ hr{
 .footer ul{
     padding-inline-start: 0px;
 }
+
