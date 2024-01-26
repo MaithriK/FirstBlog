@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tinychanges24by7.netlify.app/sitemap.xml
