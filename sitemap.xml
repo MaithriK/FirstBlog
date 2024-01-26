@@ -1,59 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>http://tinychanges24by7.netlify.app/</loc>
+  <loc>https://tinychanges24by7.netlify.app/</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/aboutus</loc>
+  <loc>https://tinychanges24by7.netlify.app/aboutus</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/contactus</loc>
+  <loc>https://tinychanges24by7.netlify.app/contactus</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/freshers</loc>
+  <loc>https://tinychanges24by7.netlify.app/freshers</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/interviewtips</loc>
+  <loc>https://tinychanges24by7.netlify.app/interviewtips</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/jobprograms</loc>
+  <loc>https://tinychanges24by7.netlify.app/jobprograms</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/resumetips</loc>
+  <loc>https://tinychanges24by7.netlify.app/resumetips</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/Freshers/resume for freshers.html</loc>
+  <loc>https://tinychanges24by7.netlify.app/Freshers/resume for freshers.html</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/Freshers/interview tips.html</loc>
+  <loc>https://tinychanges24by7.netlify.app/Freshers/interview tips.html</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/Job Programs/analyst.html</loc>
+  <loc>https://tinychanges24by7.netlify.app/Job Programs/analyst.html</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/Resume Tips/resumeinlinkedin.html</loc>
+  <loc>https://tinychanges24by7.netlify.app/Resume Tips/resumeinlinkedin.html</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/disclaimer</loc>
+  <loc>https://tinychanges24by7.netlify.app/disclaimer</loc>
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tinychanges24by7.netlify.app/privacypolicy</loc>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc></loc>
+  <loc>https://tinychanges24by7.netlify.app/privacypolicy</loc>
   <priority>1.0</priority>
 </url>
 </urlset>
