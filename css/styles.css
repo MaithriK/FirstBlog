@@ -62,6 +62,7 @@ hr{
     display: inline-block;
     background-color: #C53678;
     margin: 0.5rem;
+    
 }
 
 .link-secondary{
@@ -72,12 +73,16 @@ hr{
     margin: 0.5rem;
     background-color: #C53678;
 }
+.link-primary:hover,.link-secondary:hover{
+    box-shadow: 5px 4px 0px 0px black;
+}
 
 .link-footer{
     border: 0.5px solid white;
     border-radius: 2rem;
     display: inline-block;
     margin: 0.5rem;
+    
 }
 .list-non-bullet{
     list-style: none;
@@ -131,6 +136,7 @@ hr{
     color: white;
     background-color: #C53678;
     font-weight: bold;
+    border-radius: 2rem;
 }
 .navigation .link:active{
     color: white;
@@ -199,6 +205,11 @@ hr{
 }
 .footer .link{
     color: #C53678;
+    /* border: 1px solid black;
+    border-radius: 2rem;
+     */
+     font-weight: bold;
+    text-decoration: underline;
 }
 
 
