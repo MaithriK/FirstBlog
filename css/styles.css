@@ -108,13 +108,22 @@ hr{
 
 /** nav **/
 .navigation{
-    background-color:
-    var(--primary-color);
+    background-color:white;
+    
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 0.5rem;
      
 }
+/* responsive nav */
+@media screen and (max-width: 600px) {
+    .navigation a:not(:first-child) {display: none;}
+    .navigation a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
 
 .navigation .nav-pills{
     text-align: right;
