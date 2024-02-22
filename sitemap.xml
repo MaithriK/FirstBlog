@@ -1,55 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://tinychanges24by7.netlify.app/</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/aboutus</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/aboutus</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/contactus</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/freshers</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/freshers</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/interviewtips</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/interviewtips</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/jobprograms</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/jobprograms</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/resumetips</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/resumetips</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/devopsmeesho</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/Freshers/resume for freshers.html</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/riskanalyst</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/Freshers/interview tips.html</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/analystservicenow</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/Job Programs/analyst.html</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/axis%20sales</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/Resume Tips/resumeinlinkedin.html</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/relationshipmanager</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/disclaimer</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/icici</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://tinychanges24by7.netlify.app/privacypolicy</loc>
-  <priority>1.0</priority>
+<loc>https://tinychanges24by7.netlify.app/freshers/resume%20for%20freshers</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/freshers/interview%20tips</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/analyst</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/resume%20tips/resumeinlinkedin</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/axis%20bankers%20program</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/upsc</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/hdfc</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/job%20programs/fintech</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/contactus</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/disclaimer</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://tinychanges24by7.netlify.app/privacypolicy</loc>
+<lastmod>2024-02-22T14:11:37+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 </urlset>
