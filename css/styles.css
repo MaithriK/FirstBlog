@@ -105,7 +105,10 @@ hr{
     text-decoration: none;
     font-weight: bold;
 }
-
+#blink{
+    background-color: #C53678;
+    color: white;
+}
 /** nav **/
 .navigation{
     background-color:white;
@@ -190,6 +193,7 @@ hr{
     margin: 2rem 0rem;
     border-radius: 1rem;
     line-height: 1.5;
+    border: 1px solid black;
 }
 .section h1{
     text-align: center;
